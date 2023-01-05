@@ -22,7 +22,7 @@
   
   .image-section {
     background-position: center center;
-    background-image: url("./leaf-image.jpg");
+    background-image: url('/img/leaf-image.jpg');
     background-size: cover;
     flex: 3;
     display: flex;
